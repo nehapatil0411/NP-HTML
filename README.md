@@ -6,7 +6,7 @@ https://monumental-cocada-599458.netlify.app
 
 
 
-<h1>WIREFRAME</h1>
+<h1>Wireframe</h1>
 <a href="https://precious-strudel-bfc202.netlify.app"><img src="Wireframe.png"></a>
 
 https://precious-strudel-bfc202.netlify.app
